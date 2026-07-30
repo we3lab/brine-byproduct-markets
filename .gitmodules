@@ -1,0 +1,3 @@
+[submodule "gw-avail-and-comp"]
+	path = gw-avail-and-comp
+	url = https://github.com/we3lab/gw-avail-and-comp.git
