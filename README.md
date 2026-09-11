@@ -1,5 +1,5 @@
-# bgw-byproduct-supply-demand
-Supply-Demand Mass Balance for Brackish Groundwater Desalination Brine Valorization
+# brine-byproduct-markets
+Demand and pricing data for key brine byproduct markets
 
 # Notes
 - submodule gw-avail-and-comp
